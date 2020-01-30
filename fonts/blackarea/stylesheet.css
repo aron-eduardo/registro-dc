@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'BLACK AREA';
+    src: url('BLACKAREA.eot');
+    src: url('BLACKAREA.eot?#iefix') format('embedded-opentype'),
+        url('BLACKAREA.woff2') format('woff2'),
+        url('BLACKAREA.woff') format('woff'),
+        url('BLACKAREA.ttf') format('truetype'),
+        url('BLACKAREA.svg#BLACKAREA') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
